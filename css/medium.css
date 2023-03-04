@@ -1,0 +1,13 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.nav-bg{
+    background-color:#FFC017; 
+}
+.nav-border{
+    border-bottom: 1px solid #414141 ;
+}
+.inline-buttons {
+    margin-bottom: 10px;
+}
